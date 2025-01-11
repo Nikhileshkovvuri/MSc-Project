@@ -115,19 +115,6 @@ Designed for affordability and scalability, the system operates on a **Raspberry
 - Deployment on more powerful embedded systems for enhanced performance.
 
 ---
-
-## Contributing
-Contributions are welcome! If you have suggestions for improvements, please create a pull request or open an issue.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - Public dataset used for training.
 - Inspiration from advancements in driver monitoring systems.
-
-Feel free to adapt this README to your repository by adding links and specific commands as needed!
